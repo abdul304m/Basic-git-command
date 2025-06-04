@@ -112,7 +112,7 @@ To simulate both Tom and Jerry working on the same laptop, you will switch betwe
 
 . open index.html and some information eg "echo "jerry's changes to the project" > index.html".
 
-![checking-main-dir](./new-p-2/19.checking-main%20dir.png)
+![checking-main-dir](./new-p-2/19.checking-main-dir.png)
 
 . Stage jerry's change : by running this command "git add index.html"
 
