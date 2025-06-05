@@ -9,6 +9,11 @@ of Git, setting up a Github repository, cloning the repository, creating branche
 
 . For you to install Git successful, you are to visit the  official Git website https://git-scm.com/downloads and download the version of Git for your operating system.And follow the installation instruction .
 
+. Git configuration: the next thing to do after installing your git is to config your name and your email. And you can do that by running this command "git config --global user.name "your name". this command will automatically config your name.
+
+. config email. Then to config your email , you are to run this command "git config --global user.email "name of your email".
+
+![git-config](./new-p-2/24.git-config.png)
 2. Create a Github repository :
 
 . Sign up if you have not register or log in to Github.
